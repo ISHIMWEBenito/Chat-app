@@ -1,1 +1,3 @@
-# Chat-app
+# Chat application
+
+🌎 Website: 
